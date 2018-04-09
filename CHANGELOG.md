@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of the openvpn cookbook.
 
+## v3.1.0
+
+Adding support for systemd service names on Amazon Linux version 2
+
 ## v3.0.0
 
 - [Chef-13 compatibility](https://github.com/sous-chefs/openvpn/issues/102)
